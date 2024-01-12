@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm <a href="https://www.linkedin.com/in/rpanchyk" target="_blank">rpanchyk</a></h2>
+<h3 style="text-decoration: none;">Hi there 👋, I'm <a href="https://www.linkedin.com/in/rpanchyk" target="_blank">rpanchyk</a></h3>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=rpanchyk&show_icons=true&hide_rank=true&hide_title=true&text_bold=false&theme=dark"
